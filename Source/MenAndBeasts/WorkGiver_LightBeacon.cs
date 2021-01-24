@@ -8,30 +8,18 @@ namespace MenAndBeasts
 {
     public class WorkGiver_LightBeacon : WorkGiver_Scanner
     {
-        public override ThingRequest PotentialWorkThingRequest
-        {
-            get
-            {
-                return ThingRequest.ForGroup(ThingRequestGroup.BuildingArtificial);
-            }
-        }
+        public override ThingRequest PotentialWorkThingRequest => ThingRequest.ForGroup(ThingRequestGroup.BuildingArtificial);
 
         public IEnumerable<Thing> BeaconsToLight(Pawn pawn)
         {
-                List<Thing> thingsToCheck = new List<Thing>(from Thing things in pawn.Map.listerBuildings.allBuildingsColonist
+                var thingsToCheck = new List<Thing>(from Thing things in pawn.Map.listerBuildings.allBuildingsColonist
                                                             where things.def.defName == "LotRM_GBeacon"
                                                             select things);
                 return thingsToCheck;
             
         }
 
-        public override PathEndMode PathEndMode
-        {
-            get
-            {
-                return PathEndMode.Touch;
-            }
-        }
+        public override PathEndMode PathEndMode => PathEndMode.Touch;
 
         public override IEnumerable<Thing> PotentialWorkThingsGlobal(Pawn pawn)
         {
@@ -45,8 +33,7 @@ namespace MenAndBeasts
 
         public override bool HasJobOnThing(Pawn pawn, Thing t, bool forced=false)
         {
-            Building_BeaconUnlit building = t as Building_BeaconUnlit;
-            if (building == null)
+            if (!(t is Building_BeaconUnlit building))
             {
                 return false;
             }
@@ -63,7 +50,11 @@ namespace MenAndBeasts
                 JobFailReason.Is(WorkGiver_FixBrokenDownBuilding.NotInHomeAreaTrans);
                 return false;
             }
-            if (!pawn.CanReserve(t)) return false;// pawn.Map.reservationManager.IsReserved(t, pawn.Faction)) return false;
+            if (!pawn.CanReserve(t))
+            {
+                return false;// pawn.Map.reservationManager.IsReserved(t, pawn.Faction)) return false;
+            }
+
             return true;
         }
 

@@ -25,15 +25,17 @@ namespace MenAndBeasts
                 var potentialAlly = potentialAllies.RandomElementByWeight((Faction fac) => (float)fac.PlayerGoodwill + 120.000008f);
                 
                 Faction ofPlayer = Faction.OfPlayer;
-                int goodwillChange = -25;
-                bool canSendMessage = false;
+                var goodwillChange = -25;
+                var canSendMessage = false;
                 string reason = "GoodwillChangedReason_RequestedMilitaryAid".Translate();
                 potentialAlly.TryAffectGoodwillWith(ofPlayer, goodwillChange, canSendMessage, true, reason, null);
-                IncidentParms incidentParms = new IncidentParms();
-                incidentParms.target = this.MapHeld;
-                incidentParms.faction = potentialAlly;
-                incidentParms.raidArrivalModeForQuickMilitaryAid = true;
-                incidentParms.points = DiplomacyTuning.RequestedMilitaryAidPointsRange.RandomInRange;
+                var incidentParms = new IncidentParms
+                {
+                    target = MapHeld,
+                    faction = potentialAlly,
+                    raidArrivalModeForQuickMilitaryAid = true,
+                    points = DiplomacyTuning.RequestedMilitaryAidPointsRange.RandomInRange
+                };
                 potentialAlly.lastMilitaryAidRequestTick = Find.TickManager.TicksGame;
                 IncidentDefOf.RaidFriendly.Worker.TryExecute(incidentParms);
             }
@@ -41,7 +43,7 @@ namespace MenAndBeasts
 
 
 
-        private Faction LocalFaction => this.Faction ?? Faction.OfPlayerSilentFail;
+        private Faction LocalFaction => Faction ?? Faction.OfPlayerSilentFail;
 
         public override void ExposeData()
         {

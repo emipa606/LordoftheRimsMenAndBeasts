@@ -22,13 +22,7 @@ namespace MenAndBeasts
         protected float ticksToNextRepair;
 
 
-        protected Building_BeaconUnlit Beacon
-        {
-            get
-            {
-                return (Building_BeaconUnlit)base.job.GetTarget(TargetIndex.A).Thing;
-            }
-        }
+        protected Building_BeaconUnlit Beacon => (Building_BeaconUnlit)base.job.GetTarget(TargetIndex.A).Thing;
 
         [DebuggerHidden]
         protected override IEnumerable<Toil> MakeNewToils()
@@ -40,25 +34,27 @@ namespace MenAndBeasts
             yield return Toils_Goto.GotoThing(TargetIndex.A, PathEndMode.Touch);
 
             //Toil 2: Begin pruning.
-            Toil toil = new Toil();
-            toil.defaultCompleteMode = ToilCompleteMode.Delay;
-            toil.defaultDuration = JobDriver_LightBeacon.remainingDuration;
+            var toil = new Toil
+            {
+                defaultCompleteMode = ToilCompleteMode.Delay,
+                defaultDuration = JobDriver_LightBeacon.remainingDuration
+            };
             toil.WithProgressBarToilDelay(TargetIndex.A, false, -0.5f);
             toil.initAction = delegate
             {
-                this.ticksToNextRepair = 80f;
+                ticksToNextRepair = WarmupTicks;
             };
             toil.tickAction = delegate
             {
-                Pawn actor = this.pawn;
+                Pawn actor = pawn;
                 actor.skills.Learn(SkillDefOf.Construction, 0.5f, false);
-                float statValue = actor.GetStatValue(StatDefOf.ConstructionSpeed, true);
-                this.ticksToNextRepair -= statValue;
-                if (this.ticksToNextRepair <= 0f)
+                var statValue = actor.GetStatValue(StatDefOf.ConstructionSpeed, true);
+                ticksToNextRepair -= statValue;
+                if (ticksToNextRepair <= 0f)
                 {
-                    this.ticksToNextRepair += 16f;
-                    this.TargetThingA.HitPoints++;
-                    this.TargetThingA.HitPoints = Mathf.Min(this.TargetThingA.HitPoints, this.TargetThingA.MaxHitPoints);
+                    ticksToNextRepair += TicksBetweenRepairs;
+                    TargetThingA.HitPoints++;
+                    TargetThingA.HitPoints = Mathf.Min(TargetThingA.HitPoints, TargetThingA.MaxHitPoints);
                     //if (this.TargetThingA.HitPoints == this.TargetThingA.MaxHitPoints)
                     //{
                     //    actor.records.Increment(RecordDefOf.ThingsRepaired);
