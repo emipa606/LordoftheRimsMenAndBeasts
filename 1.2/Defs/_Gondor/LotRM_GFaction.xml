@@ -73,6 +73,17 @@
         </options>
       </li>
       <li>
+        <kindDef>Peaceful</kindDef>
+        <options>
+          <LotRM_GondorVillager>150</LotRM_GondorVillager>
+          <LotRM_GondorGuard>70</LotRM_GondorGuard>
+          <LotRM_GondorSteward>30</LotRM_GondorSteward>
+          <LotRM_GondorSoldier>30</LotRM_GondorSoldier>
+          <LotRM_GondorSoldierSpear>30</LotRM_GondorSoldierSpear>
+          <LotRM_GondorSoldierRanged>30</LotRM_GondorSoldierRanged>
+        </options>
+      </li>
+      <li>
         <kindDef>Trader</kindDef>
         <traders>
           <LotRM_GondorTrader>1</LotRM_GondorTrader>
