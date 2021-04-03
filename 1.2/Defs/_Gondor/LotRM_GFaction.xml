@@ -31,9 +31,9 @@
     </startingGoodwill>
     <factionNameMaker>NamerFactionOutlander</factionNameMaker>
     <settlementNameMaker>NamerSettlementOutlander</settlementNameMaker>
-    <techLevel>Industrial</techLevel>
+    <techLevel>Medieval</techLevel>
     <backstoryCategories>
-      <li>Outlander</li>
+      <li>Tribal</li>
     </backstoryCategories>
     <geneticVariance>0.8</geneticVariance>
     <hairTags>
