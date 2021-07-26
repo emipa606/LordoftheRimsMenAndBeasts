@@ -1,4 +1,3 @@
-using System;
 using System.Collections.Generic;
 using RimWorld;
 using UnityEngine;
@@ -8,6 +7,8 @@ namespace MenAndBeasts
 {
     public class Building_BeaconUnlit : Building_WorkTable
     {
+        public bool ToBeLit { get; private set; }
+
         public void Light()
         {
             var curLoc = PositionHeld;
@@ -18,11 +19,9 @@ namespace MenAndBeasts
             Destroy();
         }
 
-        public bool ToBeLit { get; private set; } = false;
-
         public override IEnumerable<Gizmo> GetGizmos()
         {
-            foreach (Gizmo g in base.GetGizmos())
+            foreach (var g in base.GetGizmos())
             {
                 yield return g;
             }
@@ -34,7 +33,7 @@ namespace MenAndBeasts
                 defaultLabel = "LotRM_LightTheBeacon".Translate(),
                 defaultDesc = "LotRM_LightTheBeaconDesc".Translate(),
                 isActive = () => ToBeLit,
-                toggleAction = ()=> ToBeLit = !ToBeLit
+                toggleAction = () => ToBeLit = !ToBeLit
             };
         }
     }
