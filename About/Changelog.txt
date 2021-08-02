@@ -1,5 +1,8 @@
 # Changelog for LordoftheRimsMenAndBeasts
 
+1.0.5.0 - Removed graphic apparel detour as it was conflicting with stuff
+
+
 1.0.4.0 - Updated for 1.3
 
 
