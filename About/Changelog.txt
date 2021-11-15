@@ -1,5 +1,8 @@
 # Changelog for LordoftheRimsMenAndBeasts
 
+1.0.6.0 - Fixed wrong inheritance for helmets, they should now be smithable instead of machinable
+
+
 1.0.5.0 - Removed graphic apparel detour as it was conflicting with stuff
 
 

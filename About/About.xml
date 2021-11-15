@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Lord of the Rims - Men and Beasts (Continued)</name>
   <packageId>Mlie.LordoftheRimsMenAndBeasts</packageId>
@@ -20,7 +20,7 @@
   <loadAfter>
     <li>jecrell.jecstools</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Jecrells mod
 https://github.com/Lord-of-the-Rims-DevTeam/Lord-of-the-Rims---Men-and-Beasts
 
@@ -32,7 +32,7 @@ This mod is not really a finished work and only includes the Gondor faction and 
 It was however requested to be published. 
 If it gets more work done by the original team I will update this release as well.
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
@@ -41,10 +41,10 @@ If it gets more work done by the original team I will update this release as wel
     [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 Adds the various factions / equipment of Men and the supporting creatures of Middle-Earth.
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.

@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <ThingDef ParentName="ArmorHelmetMakeableBase">
+  <ThingDef ParentName="ArmorSmithableBase" Name="GondorHelmBase" Abstract="True">
+    <thingCategories>
+      <li>ArmorHeadgear</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="GondorHelmBase">
     <defName>LotRM_GondorApparel_PlateHelmet</defName>
     <label>Gondor plate helmet</label>
     <description>A helmet worn by soldiers from Gondor.</description>
@@ -47,7 +52,7 @@
       <li>LotRM_GondorArmor</li>
     </tradeTags>
   </ThingDef>
-  <ThingDef ParentName="ArmorHelmetMakeableBase">
+  <ThingDef ParentName="GondorHelmBase">
     <defName>LotRM_GondorApparel_FountainGuardHelmet</defName>
     <label>Gondor fountain-guard helmet</label>
     <description>An impressive helmet worn by the brave and loyal guards that protected the citadel of Minas Tirith.</description>
@@ -94,7 +99,7 @@
       <li>LotRM_GondorArmor</li>
     </tradeTags>
   </ThingDef>
-  <ThingDef ParentName="ArmorHelmetMakeableBase">
+  <ThingDef ParentName="GondorHelmBase">
     <defName>LotRM_GondorApparel_SwanKnightHelmet</defName>
     <label>Dol Amroth helmet</label>
     <description>The renowned Swan Knights of Dol Amroth serve as impressive cavalry in service of the kingdom of Gondor. Their helmet reflects their symbol - the swan.</description>
@@ -142,7 +147,7 @@
     </tradeTags>
   </ThingDef>
   <!-- carnovGondor_Crown -->
-  <ThingDef ParentName="ArmorHelmetMakeableBase">
+  <ThingDef ParentName="GondorHelmBase">
     <defName>LotRM_GondorApparel_Crown</defName>
     <label>Gondorian crown</label>
     <description>The crown of Elendil, a ceremonial winged crown of the King of Gondor. It awaits the rightful heir to receive it.</description>

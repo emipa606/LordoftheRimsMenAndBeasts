@@ -1,6 +1,6 @@
 # LordoftheRimsMenAndBeasts
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Jecrells mod
 https://github.com/Lord-of-the-Rims-DevTeam/Lord-of-the-Rims---Men-and-Beasts
@@ -13,23 +13,14 @@ This mod is not really a finished work and only includes the Gondor faction and 
 It was however requested to be published. 
 If it gets more work done by the original team I will update this release as well.
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-    [tr]
-        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-        [td]https://github.com/emipa606/LordoftheRimsMenAndBeasts]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-    [/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 Adds the various factions / equipment of Men and the supporting creatures of Middle-Earth.
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
