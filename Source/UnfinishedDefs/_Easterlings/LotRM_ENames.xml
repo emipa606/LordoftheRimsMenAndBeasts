@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- Adds name generation files to Easterlings -->
   <!-- Check the root directory/Languages/English/strings -->
@@ -7,7 +7,7 @@
     <defName>LotRMB_EasterlingMaleNamer</defName>
     <rulePack>
       <rulesStrings>
-        <li>name-&gt;[pack]</li>
+        <li>name->[pack]</li>
       </rulesStrings>
       <rulesRaw>
         <li Class="Rule_File">
@@ -21,7 +21,7 @@
     <defName>LotRMB_EasterlingFemaleNamer</defName>
     <rulePack>
       <rulesStrings>
-        <li>name-&gt;[pack]</li>
+        <li>name->[pack]</li>
       </rulesStrings>
       <rulesRaw>
         <li Class="Rule_File">

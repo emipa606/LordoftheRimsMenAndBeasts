@@ -2,9 +2,4 @@
 
 namespace MenAndBeasts;
 
-public class MenAndBeastsMod : Mod
-{
-    public MenAndBeastsMod(ModContentPack content) : base(content)
-    {
-    }
-}
+public class MenAndBeastsMod(ModContentPack content) : Mod(content);

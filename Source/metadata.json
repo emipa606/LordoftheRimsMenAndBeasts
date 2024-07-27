@@ -1,5 +1,7 @@
 {
   "Continued": true,
   "CanAdd": "0",
-  "CanRemove": "1"
+  "CanRemove": "1",
+  "SocialImageSet": true,
+  "PreviewVersion": "1.5"
 }

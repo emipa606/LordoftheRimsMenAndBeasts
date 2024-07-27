@@ -11,7 +11,7 @@ public class JobDriver_LightBeacon : JobDriver
     private const float WarmupTicks = 80f;
 
     private const float TicksBetweenRepairs = 16f;
-    public static int remainingDuration = 500; // A few seconds
+    public static readonly int remainingDuration = 500; // A few seconds
 
     protected float ticksToNextRepair;
 

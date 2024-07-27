@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ResearchTabDef>
     <defName>LotRM_Tab</defName>
@@ -16,7 +16,7 @@
   <ResearchProjectDef ParentName="LotRM_BaseResearch">
     <defName>LotRM_G_WeaponsOne</defName>
     <label>Spears and Bows of the White Tree</label>
-    <description>&lt;i&gt;Gondor! Gondor, between the Mountains and the Sea! West Wind blew there; light upon the Silver Tree&lt;/i&gt;\n\nUnlock the classic weapons of Gondor:\n- Gondor Spear\n- Ithilien Ranger Bow</description>
+    <description>&lt;i>Gondor! Gondor, between the Mountains and the Sea! West Wind blew there; light upon the Silver Tree&lt;/i>\n\nUnlock the classic weapons of Gondor:\n- Gondor Spear\n- Ithilien Ranger Bow</description>
     <baseCost>250</baseCost>
     <tags>
       <li>LotRM_G_GondorScenario</li>
@@ -27,7 +27,7 @@
   <ResearchProjectDef ParentName="LotRM_BaseResearch">
     <defName>LotRM_G_WeaponsTwo</defName>
     <label>Weapons of War</label>
-    <description>&lt;i&gt;"The beacons of Gondor are alight, calling for aid. War is kindled."&lt;/i&gt;\n\nUnlock proper Gondorian weapons:\n- Gondorian Sword\n - Gondorian Shield</description>
+    <description>&lt;i>"The beacons of Gondor are alight, calling for aid. War is kindled."&lt;/i>\n\nUnlock proper Gondorian weapons:\n- Gondorian Sword\n - Gondorian Shield</description>
     <baseCost>500</baseCost>
     <prerequisites>
       <li>LotRM_G_WeaponsOne</li>
@@ -38,7 +38,7 @@
   <ResearchProjectDef ParentName="LotRM_BaseResearch">
     <defName>LotRM_G_WeaponsThree</defName>
     <label>Swan-Blades of Dol Amroth</label>
-    <description>&lt;i&gt;"Amroth for Gondor!" they cried. "Amroth to Faramir!" &lt;/i&gt;\n\nUnlock the arsenal wielded by the swan-knights of Dol Amroth:\n- Knight blade\n- Swan Knight blade</description>
+    <description>&lt;i>"Amroth for Gondor!" they cried. "Amroth to Faramir!" &lt;/i>\n\nUnlock the arsenal wielded by the swan-knights of Dol Amroth:\n- Knight blade\n- Swan Knight blade</description>
     <baseCost>750</baseCost>
     <prerequisites>
       <li>LotRM_G_WeaponsTwo</li>

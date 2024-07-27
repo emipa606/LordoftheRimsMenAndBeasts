@@ -1,5 +1,8 @@
 # Changelog for LordoftheRimsMenAndBeasts
 
+1.5.0 - Updated for 1.5, uses custom shield-code since Jecs does not work correctly
+
+
 1.4.1 - Mod updated for 1.4 and passed autotests.
 Used DeepL to update translations for ChineseSimplified, French, German, Russian
 

@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- Rohan -->
   <RulePackDef>
     <defName>LotRMB_RohanMaleNamer</defName>
     <rulePack>
       <rulesStrings>
-        <li>name-&gt;[pack]</li>
+        <li>name->[pack]</li>
       </rulesStrings>
       <rulesRaw>
         <li Class="Rule_File">
@@ -19,7 +19,7 @@
     <defName>LotRMB_Names_RohanFemale</defName>
     <rulePack>
       <rulesStrings>
-        <li>name-&gt;[pack]</li>
+        <li>name->[pack]</li>
       </rulesStrings>
       <rulesRaw>
         <li Class="Rule_File">
