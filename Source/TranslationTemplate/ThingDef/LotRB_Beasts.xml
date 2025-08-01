@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Mumakil leather -->
+  <LotRB_Leather_Mumakil.label>Mumakil leather</LotRB_Leather_Mumakil.label>
+  <!-- EN: Tanned, dried, scraped mumakil skin. While quite tough, it is a poor insulator. -->
+  <LotRB_Leather_Mumakil.description>Tanned, dried, scraped mumakil skin. While quite tough, it is a poor insulator.</LotRB_Leather_Mumakil.description>
+  <!-- EN: mumakil -->
+  <LotRB_MumakilRace.label>mumakil</LotRB_MumakilRace.label>
+  <!-- EN: I have no clue what to set as a description so cheese :) -->
+  <LotRB_MumakilRace.description>I have no clue what to set as a description so cheese :)</LotRB_MumakilRace.description>
+  <!-- EN: tusk -->
+  <LotRB_MumakilRace.tools.tusk.label>tusk</LotRB_MumakilRace.tools.tusk.label>
+  <!-- EN: left foot -->
+  <LotRB_MumakilRace.tools.left_foot.label>left foot</LotRB_MumakilRace.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <LotRB_MumakilRace.tools.right_foot.label>right foot</LotRB_MumakilRace.tools.right_foot.label>
+  <!-- EN: head -->
+  <LotRB_MumakilRace.tools.head.label>head</LotRB_MumakilRace.tools.head.label>
+</LanguageData>

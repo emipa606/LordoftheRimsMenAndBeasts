@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Horse -->
+  <LotR_HorseRace.label>Horse</LotR_HorseRace.label>
+  <!-- EN: A man-sized galloping herbivore, often utilized for its speed and hardy stamina. Generally peaceful unless disturbed. -->
+  <LotR_HorseRace.description>A man-sized galloping herbivore, often utilized for its speed and hardy stamina. Generally peaceful unless disturbed.</LotR_HorseRace.description>
+  <!-- EN: horse meat -->
+  <LotR_HorseRace.race.meatLabel>horse meat</LotR_HorseRace.race.meatLabel>
+  <!-- EN: left hoof -->
+  <LotR_HorseRace.tools.left_hoof.label>left hoof</LotR_HorseRace.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <LotR_HorseRace.tools.right_hoof.label>right hoof</LotR_HorseRace.tools.right_hoof.label>
+  <!-- EN: teeth -->
+  <LotR_HorseRace.tools.teeth.label>teeth</LotR_HorseRace.tools.teeth.label>
+  <!-- EN: head -->
+  <LotR_HorseRace.tools.head.label>head</LotR_HorseRace.tools.head.label>
+</LanguageData>

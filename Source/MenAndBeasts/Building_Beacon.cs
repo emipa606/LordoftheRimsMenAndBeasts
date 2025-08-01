@@ -11,7 +11,7 @@ public class Building_Beacon : Building_WorkTable
 
     private Faction LocalFaction => Faction ?? Faction.OfPlayerSilentFail;
 
-    public override void Tick()
+    protected override void Tick()
     {
         base.Tick();
         if (allySummoned)

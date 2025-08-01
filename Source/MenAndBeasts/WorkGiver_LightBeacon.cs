@@ -13,7 +13,7 @@ public class WorkGiver_LightBeacon : WorkGiver_Scanner
 
     public override PathEndMode PathEndMode => PathEndMode.Touch;
 
-    public IEnumerable<Thing> BeaconsToLight(Pawn pawn)
+    private static IEnumerable<Thing> beaconsToLight(Pawn pawn)
     {
         var thingsToCheck = new List<Thing>(from Thing things in pawn.Map.listerBuildings.allBuildingsColonist
             where things.def.defName == "LotRM_GBeacon"
@@ -23,12 +23,12 @@ public class WorkGiver_LightBeacon : WorkGiver_Scanner
 
     public override IEnumerable<Thing> PotentialWorkThingsGlobal(Pawn pawn)
     {
-        return BeaconsToLight(pawn);
+        return beaconsToLight(pawn);
     }
 
     public override bool ShouldSkip(Pawn pawn, bool forced = false)
     {
-        return !BeaconsToLight(pawn).Any();
+        return !beaconsToLight(pawn).Any();
     }
 
     public override bool HasJobOnThing(Pawn pawn, Thing t, bool forced = false)

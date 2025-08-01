@@ -1,0 +1,113 @@
+ManifestFileVersion: 0
+CRC: 1075579136
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5093488efaadde7e10cfbd194f5f6cdf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5093488efaadde7e10cfbd194f5f6cdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Men/ShirtMedieval/jecrellShirtMedieval_Female_north-resources.assets-1441.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Ithilien/Ithilien_Ranger_Thin_north.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Sounds/_LotRShared/LotR_HorseCall.ogg
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Ithilien/Ithilien_Ranger_Male_east.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Men/ShirtMedieval/jecrellShirtMedieval_Female_east-resources.assets-65.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/_LotRShared/walkingProblemHorsePack_south.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Sounds/Weapon/LotRM_RangerArrow.ogg
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Shield/averouisGondorShield.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Ithilien/Ithilien_Ranger_Male_south.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Plate/carnovGondor_regular_plate_Fat_east.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Ithilien/Ithilien_Ranger_Male_north.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Ithilien/Ithilien_Ranger_Thin_east.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Sounds/_LotRShared/LotR_HorseGallop.ogg
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Ithilien/Ithilien_Ranger_Hulk_north.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Men/ShirtMedieval/jecrellShirtMedieval_Hulk_south-resources.assets-152.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Plate/carnovGondor_regular_plate_Fat_south.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Ithilien/Ithilien_Hood_south.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Helmet/carnovFountain_Guard_east.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Plate/carnovGondor_regular_plate_Thin_north.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Animal/FellBeast/sheidulaFellbeast_east.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Animal/Mumakil/sheidulaMumakil_north.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Helmet/carnovFountain_Guard_north.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/_LotRShared/walkingProblemHorse_east.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Men/ShirtMedieval/jecrellShirtMedieval_Fat_south-resources.assets-1313.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Men/ShirtMedieval/jecrellShirtMedieval_Male_south-resources.assets-252.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Helmet/carnovGondor_Crown_east.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Helmet/carnovGondor_Helmet_north.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Men/ShirtMedieval/jecrellShirtMedieval_Male_east-resources.assets-1190.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Building/trisscarBeacon.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Animal/Wight/sheidulaWight_north.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Ithilien/Ithilien_Ranger_Female_east.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Men/ShirtMedieval/jecrellShirtMedieval_Hulk_east-resources.assets-1195.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Ithilien/Ithilien_Ranger_Thin_south.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Ithilien/Ithilien_Ranger_Fat_north.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/World/Gondor.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Helmet/carnovGondor_Crown_north.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Men/ShirtMedieval/jecrellShirtMedieval_Fat_east-resources.assets-543.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Sounds/_LotRShared/LotR_HorseAngry.ogg
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Animal/Wight/sheidulaWight_south.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Plate/carnovGondor_regular_plate_Female_east.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Plate/carnovGondor_regular_plate_Female_north.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/_LotRShared/walkingProblemHorse_north.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Men/ShirtMedieval/jecrellShirtMedieval_Thin_east-resources.assets-1295.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Plate/carnovGondor_regular_plate_Hulk_north.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Sounds/Misc/Animals/stomp.ogg
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Sounds/_LotRShared/LotR_HorseDies.ogg
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Ithilien/Ithilien_Ranger_Hulk_east.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Item/Equipment/WeaponMelee/Gondor/averouisSwanKnightBlade.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Helmet/carnovGondor_Helmet_south.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Men/ShirtMedieval/jecrellShirtMedieval_Thin_north-resources.assets-1396.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Men/ShirtMedieval/jecrellShirtMedieval_Thin_south-resources.assets-672.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Item/Equipment/WeaponMelee/Gondor/averouisKnightBlade.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Shield/averouisGondorShield_south.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Ithilien/Ithilien_Hood_north.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Item/Equipment/WeaponMelee/Gondor/averouisCombatBlade.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Animal/Mumakil/sheidulaMumakil_south.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Plate/carnovGondor_regular_plate_Female_south.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Men/ShirtMedieval/jecrellShirtMedieval_Hulk_north-resources.assets-512.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Item/Equipment/WeaponMelee/Gondor/averouisGondorSpear.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/_LotRShared/walkingProblemHorse_south.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Plate/carnovGondor_regular_plate_Hulk_south.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Ithilien/Ithilien_Ranger_Fat_east.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Men/ShirtMedieval/jecrellShirtMedieval_Fat_north-resources.assets-383.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Ithilien/Ithilien_Hood_east.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Helmet/carnovFountain_Guard_south.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Animal/FellBeast/sheidulaFellbeast_north.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Ithilien/Ithilien_Ranger_Hulk_south.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Animal/Mumakil/sheidulaMumakil_east.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Ithilien/Ithilien_Ranger_Female_north.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Plate/carnovGondor_regular_plate_Fat_north.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Ithilien/Ithilien_Ranger_Fat_south.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Men/ShirtMedieval/jecrellShirtMedieval_Male_north-resources.assets-1480.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Plate/carnovGondor_regular_plate_Thin_south.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Plate/carnovGondor_regular_plate_Male_east.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Animal/Wight/sheidulaWight_east.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Plate/carnovGondor_regular_plate_Hulk_east.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Men/ShirtMedieval/jecrellShirtMedieval-resources.assets-141.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Animal/FellBeast/sheidulaFellbeast_south.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Plate/carnovGondor_regular_plate_Male_north.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Ithilien/Ithilien_Ranger_Female_south.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Helmet/carnovGondor_Helmet_east.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Sounds/Faction/FanfareGondor.ogg
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Plate/carnovGondor_regular_plate_Thin_east.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Helmet/carnovGondor_Crown_south.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Shield/averouisGondorShield_east.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Plate/carnovGondor_regular_plate_Male_south.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Men/ShirtMedieval/jecrellShirtMedieval_Female_south-resources.assets-226.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/_LotRShared/walkingProblemHorsePack_east.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Gondor/Shield/averouisGondorShield_north.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Sounds/_LotRShared/LotR_HorseWounded.ogg
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/_LotRShared/walkingProblemHorsePack_north.png
+- Assets/Data/Mlie.LordoftheRimsMenAndBeasts/Textures/Things/Pawn/Apparel/Ithilien/Ithilien_Ranger.png
+Dependencies: []

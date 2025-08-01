@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: quadruped animal -->
+  <Mumakil.label>quadruped animal</Mumakil.label>
+  <!-- EN: left lung -->
+  <Mumakil.corePart.parts.left_lung.customLabel>left lung</Mumakil.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Mumakil.corePart.parts.right_lung.customLabel>right lung</Mumakil.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Mumakil.corePart.parts.left_kidney.customLabel>left kidney</Mumakil.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Mumakil.corePart.parts.right_kidney.customLabel>right kidney</Mumakil.corePart.parts.right_kidney.customLabel>
+  <!-- EN: front left tusk -->
+  <Mumakil.corePart.parts.Neck.parts.front_left_tusk.customLabel>front left tusk</Mumakil.corePart.parts.Neck.parts.front_left_tusk.customLabel>
+  <!-- EN: front right tusk -->
+  <Mumakil.corePart.parts.Neck.parts.front_right_tusk.customLabel>front right tusk</Mumakil.corePart.parts.Neck.parts.front_right_tusk.customLabel>
+  <!-- EN: back right tusk -->
+  <Mumakil.corePart.parts.Neck.parts.Head.parts.back_right_tusk.customLabel>back right tusk</Mumakil.corePart.parts.Neck.parts.Head.parts.back_right_tusk.customLabel>
+  <!-- EN: back left tusk -->
+  <Mumakil.corePart.parts.Neck.parts.Head.parts.back_left_tusk.customLabel>back left tusk</Mumakil.corePart.parts.Neck.parts.Head.parts.back_left_tusk.customLabel>
+  <!-- EN: left eye -->
+  <Mumakil.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>left eye</Mumakil.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Mumakil.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>right eye</Mumakil.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <Mumakil.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>left ear</Mumakil.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <Mumakil.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>right ear</Mumakil.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: middle left tusk -->
+  <Mumakil.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.middle_left_tusk.customLabel>middle left tusk</Mumakil.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.middle_left_tusk.customLabel>
+  <!-- EN: middle right tusk -->
+  <Mumakil.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.middle_right_tusk.customLabel>middle right tusk</Mumakil.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.middle_right_tusk.customLabel>
+  <!-- EN: front left leg -->
+  <Mumakil.corePart.parts.front_left_leg.customLabel>front left leg</Mumakil.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <Mumakil.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>front left hoof</Mumakil.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <Mumakil.corePart.parts.front_right_leg.customLabel>front right leg</Mumakil.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <Mumakil.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>front right hoof</Mumakil.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <Mumakil.corePart.parts.rear_left_leg.customLabel>rear left leg</Mumakil.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <Mumakil.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>rear left hoof</Mumakil.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <Mumakil.corePart.parts.rear_right_leg.customLabel>rear right leg</Mumakil.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <Mumakil.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>rear right hoof</Mumakil.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+</LanguageData>

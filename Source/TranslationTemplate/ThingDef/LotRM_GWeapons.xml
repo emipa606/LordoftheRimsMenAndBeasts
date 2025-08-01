@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Gondorian knight blade -->
+  <LotRM_MeleeWeapon_GondorKnightBlade.label>Gondorian knight blade</LotRM_MeleeWeapon_GondorKnightBlade.label>
+  <!-- EN: A well crafted blade forged by a master swordsmith in Gondor. -->
+  <LotRM_MeleeWeapon_GondorKnightBlade.description>A well crafted blade forged by a master swordsmith in Gondor.</LotRM_MeleeWeapon_GondorKnightBlade.description>
+  <!-- EN: handle -->
+  <LotRM_MeleeWeapon_GondorKnightBlade.tools.handle.label>handle</LotRM_MeleeWeapon_GondorKnightBlade.tools.handle.label>
+  <!-- EN: point -->
+  <LotRM_MeleeWeapon_GondorKnightBlade.tools.point.label>point</LotRM_MeleeWeapon_GondorKnightBlade.tools.point.label>
+  <!-- EN: edge -->
+  <LotRM_MeleeWeapon_GondorKnightBlade.tools.edge.label>edge</LotRM_MeleeWeapon_GondorKnightBlade.tools.edge.label>
+  <!-- EN: Gondorian spear -->
+  <LotRM_MeleeWeapon_GondorSpear.label>Gondorian spear</LotRM_MeleeWeapon_GondorSpear.label>
+  <!-- EN: A polearm tipped with a sharp point for stabbing opponents in melee combat. This one has a particularly nasty point forged by the Men of Gondor. -->
+  <LotRM_MeleeWeapon_GondorSpear.description>A polearm tipped with a sharp point for stabbing opponents in melee combat. This one has a particularly nasty point forged by the Men of Gondor.</LotRM_MeleeWeapon_GondorSpear.description>
+  <!-- EN: shaft -->
+  <LotRM_MeleeWeapon_GondorSpear.tools.shaft.label>shaft</LotRM_MeleeWeapon_GondorSpear.tools.shaft.label>
+  <!-- EN: point -->
+  <LotRM_MeleeWeapon_GondorSpear.tools.point.label>point</LotRM_MeleeWeapon_GondorSpear.tools.point.label>
+  <!-- EN: Swan knight blade -->
+  <LotRM_MeleeWeapon_GondorSwanKnightBlade.label>Swan knight blade</LotRM_MeleeWeapon_GondorSwanKnightBlade.label>
+  <!-- EN: A finely crafted Gondorian blade, demonstrating the heraldry of the Swan Knights. -->
+  <LotRM_MeleeWeapon_GondorSwanKnightBlade.description>A finely crafted Gondorian blade, demonstrating the heraldry of the Swan Knights.</LotRM_MeleeWeapon_GondorSwanKnightBlade.description>
+  <!-- EN: handle -->
+  <LotRM_MeleeWeapon_GondorSwanKnightBlade.tools.handle.label>handle</LotRM_MeleeWeapon_GondorSwanKnightBlade.tools.handle.label>
+  <!-- EN: point -->
+  <LotRM_MeleeWeapon_GondorSwanKnightBlade.tools.point.label>point</LotRM_MeleeWeapon_GondorSwanKnightBlade.tools.point.label>
+  <!-- EN: edge -->
+  <LotRM_MeleeWeapon_GondorSwanKnightBlade.tools.edge.label>edge</LotRM_MeleeWeapon_GondorSwanKnightBlade.tools.edge.label>
+  <!-- EN: Gondorian Sword -->
+  <LotRM_MeleeWeapon_GondorSword.label>Gondorian Sword</LotRM_MeleeWeapon_GondorSword.label>
+  <!-- EN: A simple Gondorian blade, quickly produced for soldiers on the battlefield. -->
+  <LotRM_MeleeWeapon_GondorSword.description>A simple Gondorian blade, quickly produced for soldiers on the battlefield.</LotRM_MeleeWeapon_GondorSword.description>
+  <!-- EN: handle -->
+  <LotRM_MeleeWeapon_GondorSword.tools.handle.label>handle</LotRM_MeleeWeapon_GondorSword.tools.handle.label>
+  <!-- EN: point -->
+  <LotRM_MeleeWeapon_GondorSword.tools.point.label>point</LotRM_MeleeWeapon_GondorSword.tools.point.label>
+  <!-- EN: edge -->
+  <LotRM_MeleeWeapon_GondorSword.tools.edge.label>edge</LotRM_MeleeWeapon_GondorSword.tools.edge.label>
+</LanguageData>

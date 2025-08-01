@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Gondorian crown -->
+  <LotRM_GondorApparel_Crown.label>Gondorian crown</LotRM_GondorApparel_Crown.label>
+  <!-- EN: The crown of Elendil, a ceremonial winged crown of the King of Gondor. It awaits the rightful heir to receive it. -->
+  <LotRM_GondorApparel_Crown.description>The crown of Elendil, a ceremonial winged crown of the King of Gondor. It awaits the rightful heir to receive it.</LotRM_GondorApparel_Crown.description>
+  <!-- EN: Gondor fountain-guard helmet -->
+  <LotRM_GondorApparel_FountainGuardHelmet.label>Gondor fountain-guard helmet</LotRM_GondorApparel_FountainGuardHelmet.label>
+  <!-- EN: An impressive helmet worn by the brave and loyal guards that protected the citadel of Minas Tirith. -->
+  <LotRM_GondorApparel_FountainGuardHelmet.description>An impressive helmet worn by the brave and loyal guards that protected the citadel of Minas Tirith.</LotRM_GondorApparel_FountainGuardHelmet.description>
+  <!-- EN: Gondor plate helmet -->
+  <LotRM_GondorApparel_PlateHelmet.label>Gondor plate helmet</LotRM_GondorApparel_PlateHelmet.label>
+  <!-- EN: A helmet worn by soldiers from Gondor. -->
+  <LotRM_GondorApparel_PlateHelmet.description>A helmet worn by soldiers from Gondor.</LotRM_GondorApparel_PlateHelmet.description>
+  <!-- EN: Dol Amroth helmet -->
+  <LotRM_GondorApparel_SwanKnightHelmet.label>Dol Amroth helmet</LotRM_GondorApparel_SwanKnightHelmet.label>
+  <!-- EN: The renowned Swan Knights of Dol Amroth serve as impressive cavalry in service of the kingdom of Gondor. Their helmet reflects their symbol - the swan. -->
+  <LotRM_GondorApparel_SwanKnightHelmet.description>The renowned Swan Knights of Dol Amroth serve as impressive cavalry in service of the kingdom of Gondor. Their helmet reflects their symbol - the swan.</LotRM_GondorApparel_SwanKnightHelmet.description>
+</LanguageData>

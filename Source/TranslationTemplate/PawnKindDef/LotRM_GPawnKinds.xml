@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Gondor Fountain Guard -->
+  <LotRM_GondorFountainGuard.label>Gondor Fountain Guard</LotRM_GondorFountainGuard.label>
+  <!-- EN: Gondor Knight -->
+  <LotRM_GondorGuard.label>Gondor Knight</LotRM_GondorGuard.label>
+  <!-- EN: King of Gondor -->
+  <LotRM_GondorKing.label>King of Gondor</LotRM_GondorKing.label>
+  <!-- EN: Queen of Gondor -->
+  <LotRM_GondorKing.labelFemale>Queen of Gondor</LotRM_GondorKing.labelFemale>
+  <!-- EN: King of Gondor -->
+  <LotRM_GondorKing.labelMale>King of Gondor</LotRM_GondorKing.labelMale>
+  <!-- EN: Gondor soldier -->
+  <LotRM_GondorSoldier.label>Gondor soldier</LotRM_GondorSoldier.label>
+  <!-- EN: Gondor bowman -->
+  <LotRM_GondorSoldierRanged.label>Gondor bowman</LotRM_GondorSoldierRanged.label>
+  <!-- EN: Gondor spearman -->
+  <LotRM_GondorSoldierSpear.label>Gondor spearman</LotRM_GondorSoldierSpear.label>
+  <!-- EN: Steward of Gondor -->
+  <LotRM_GondorSteward.label>Steward of Gondor</LotRM_GondorSteward.label>
+  <!-- EN: Steward of Gondor -->
+  <LotRM_GondorSteward.labelFemale>Steward of Gondor</LotRM_GondorSteward.labelFemale>
+  <!-- EN: Steward of Gondor -->
+  <LotRM_GondorSteward.labelMale>Steward of Gondor</LotRM_GondorSteward.labelMale>
+  <!-- EN: Gondor-trader -->
+  <LotRM_GondorTrader.label>Gondor-trader</LotRM_GondorTrader.label>
+  <!-- EN: Gondor-villager -->
+  <LotRM_GondorVillager.label>Gondor-villager</LotRM_GondorVillager.label>
+</LanguageData>

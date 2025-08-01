@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Gondor full plate -->
+  <LotRM_GondorApparel_PlateArmor.label>Gondor full plate</LotRM_GondorApparel_PlateArmor.label>
+  <!-- EN: Armor used by the men of Gondor to defend Middle-Earth from the forces of darkness. -->
+  <LotRM_GondorApparel_PlateArmor.description>Armor used by the men of Gondor to defend Middle-Earth from the forces of darkness.</LotRM_GondorApparel_PlateArmor.description>
+  <!-- EN: Dol Amroth full plate -->
+  <LotRM_GondorApparel_SwanKnightArmor.label>Dol Amroth full plate</LotRM_GondorApparel_SwanKnightArmor.label>
+  <!-- EN: The renowned Swan Knights of Dol Amroth serve as impressive cavalry in service of the kingdom of Gondor. -->
+  <LotRM_GondorApparel_SwanKnightArmor.description>The renowned Swan Knights of Dol Amroth serve as impressive cavalry in service of the kingdom of Gondor.</LotRM_GondorApparel_SwanKnightArmor.description>
+</LanguageData>

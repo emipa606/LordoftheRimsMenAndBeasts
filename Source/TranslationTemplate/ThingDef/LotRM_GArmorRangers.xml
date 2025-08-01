@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ranger outfit -->
+  <LotRM_Apparel_RangerApparel.label>ranger outfit</LotRM_Apparel_RangerApparel.label>
+  <!-- EN: Apparel made with camouflaging green and brown that ((TODO)) reduces visibility of the enemy. -->
+  <LotRM_Apparel_RangerApparel.description>Apparel made with camouflaging green and brown that ((TODO)) reduces visibility of the enemy.</LotRM_Apparel_RangerApparel.description>
+  <!-- EN: ranger hood -->
+  <LotRM_Apparel_RangerHood.label>ranger hood</LotRM_Apparel_RangerHood.label>
+  <!-- EN: Stealthy brown and green camoflaged hood - - designed for aiding in surprise attacks on the enemy. ((TODO)) Provides a slight dodge bonus against projectiles. -->
+  <LotRM_Apparel_RangerHood.description>Stealthy brown and green camoflaged hood -- designed for aiding in surprise attacks on the enemy. ((TODO)) Provides a slight dodge bonus against projectiles.</LotRM_Apparel_RangerHood.description>
+</LanguageData>

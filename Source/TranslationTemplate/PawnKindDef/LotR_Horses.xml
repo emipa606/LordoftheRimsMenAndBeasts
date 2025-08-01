@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: horse -->
+  <LotR_HorseKind.label>horse</LotR_HorseKind.label>
+  <!-- EN: horse -->
+  <LotR_HorseKind.labelFemale>horse</LotR_HorseKind.labelFemale>
+  <!-- EN: horse -->
+  <LotR_HorseKind.labelMale>horse</LotR_HorseKind.labelMale>
+  <!-- EN: horses -->
+  <LotR_HorseKind.labelPlural>horses</LotR_HorseKind.labelPlural>
+</LanguageData>

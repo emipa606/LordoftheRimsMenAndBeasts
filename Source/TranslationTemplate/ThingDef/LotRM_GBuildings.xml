@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Rallying Beacon -->
+  <LotRM_GBeacon.label>Rallying Beacon</LotRM_GBeacon.label>
+  <!-- EN: A rallying beacon that can summon an ally to aid you in a time of strife. It is single use. -->
+  <LotRM_GBeacon.description>A rallying beacon that can summon an ally to aid you in a time of strife. It is single use.</LotRM_GBeacon.description>
+  <!-- EN: Lit Rallying Beacon -->
+  <LotRM_GBeaconLit.label>Lit Rallying Beacon</LotRM_GBeaconLit.label>
+  <!-- EN: A rallying beacon that can summon an ally to aid you in a time of strife. It is single use. -->
+  <LotRM_GBeaconLit.description>A rallying beacon that can summon an ally to aid you in a time of strife. It is single use.</LotRM_GBeaconLit.description>
+</LanguageData>

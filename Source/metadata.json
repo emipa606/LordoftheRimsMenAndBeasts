@@ -3,5 +3,13 @@
   "CanAdd": "0",
   "CanRemove": "1",
   "SocialImageSet": true,
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "Patches": true,
+  "Defs": true,
+  "Assemblies": true,
+  "LinesOfCode": 74346,
+  "LinesOfXML": 98630,
+  "CodeBaseSize": 79,
+  "LastXmlCleaning": "2025-08-01T20:21:26.1035211+02:00",
+  "SearchTags": " middle-earth"
 }

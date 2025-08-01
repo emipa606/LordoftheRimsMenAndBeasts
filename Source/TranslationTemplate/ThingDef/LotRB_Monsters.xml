@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: fell beast -->
+  <LotRB_FellBeastRace.label>fell beast</LotRB_FellBeastRace.label>
+  <!-- EN: DEATH -->
+  <LotRB_FellBeastRace.description>DEATH</LotRB_FellBeastRace.description>
+  <!-- EN: left foot -->
+  <LotRB_FellBeastRace.tools.left_foot.label>left foot</LotRB_FellBeastRace.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <LotRB_FellBeastRace.tools.right_foot.label>right foot</LotRB_FellBeastRace.tools.right_foot.label>
+  <!-- EN: head -->
+  <LotRB_FellBeastRace.tools.head.label>head</LotRB_FellBeastRace.tools.head.label>
+  <!-- EN: fellbeast hide -->
+  <LotRB_Leather_FellBeast.label>fellbeast hide</LotRB_Leather_FellBeast.label>
+  <!-- EN: The tanned flesh and scales of a fellbeast. Extremely durable. Used for the high quality crafts for its strength. -->
+  <LotRB_Leather_FellBeast.description>The tanned flesh and scales of a fellbeast. Extremely durable. Used for the high quality crafts for its strength.</LotRB_Leather_FellBeast.description>
+  <!-- EN: wight -->
+  <LotRB_WightRace.label>wight</LotRB_WightRace.label>
+  <!-- EN: A medium-sized herding herbivore. Generally peaceful unless disturbed. -->
+  <LotRB_WightRace.description>A medium-sized herding herbivore. Generally peaceful unless disturbed.</LotRB_WightRace.description>
+  <!-- EN: venison -->
+  <LotRB_WightRace.race.meatLabel>venison</LotRB_WightRace.race.meatLabel>
+  <!-- EN: mace -->
+  <LotRB_WightRace.tools.mace.label>mace</LotRB_WightRace.tools.mace.label>
+</LanguageData>

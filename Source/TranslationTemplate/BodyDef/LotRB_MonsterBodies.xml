@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: FellBeast -->
+  <LotRB_FellBeastBody.label>FellBeast</LotRB_FellBeastBody.label>
+  <!-- EN: left lung -->
+  <LotRB_FellBeastBody.corePart.parts.left_lung.customLabel>left lung</LotRB_FellBeastBody.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <LotRB_FellBeastBody.corePart.parts.right_lung-0.customLabel>right lung</LotRB_FellBeastBody.corePart.parts.right_lung-0.customLabel>
+  <!-- EN: left kidney -->
+  <LotRB_FellBeastBody.corePart.parts.left_kidney.customLabel>left kidney</LotRB_FellBeastBody.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right lung -->
+  <LotRB_FellBeastBody.corePart.parts.right_lung-1.customLabel>right lung</LotRB_FellBeastBody.corePart.parts.right_lung-1.customLabel>
+  <!-- EN: left eye -->
+  <LotRB_FellBeastBody.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>left eye</LotRB_FellBeastBody.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <LotRB_FellBeastBody.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>right eye</LotRB_FellBeastBody.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <LotRB_FellBeastBody.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>left ear</LotRB_FellBeastBody.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <LotRB_FellBeastBody.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>right ear</LotRB_FellBeastBody.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left leg -->
+  <LotRB_FellBeastBody.corePart.parts.left_leg.customLabel>left leg</LotRB_FellBeastBody.corePart.parts.left_leg.customLabel>
+  <!-- EN: left claw -->
+  <LotRB_FellBeastBody.corePart.parts.left_leg.parts.left_claw.customLabel>left claw</LotRB_FellBeastBody.corePart.parts.left_leg.parts.left_claw.customLabel>
+  <!-- EN: right leg -->
+  <LotRB_FellBeastBody.corePart.parts.right_leg.customLabel>right leg</LotRB_FellBeastBody.corePart.parts.right_leg.customLabel>
+  <!-- EN: right claw -->
+  <LotRB_FellBeastBody.corePart.parts.right_leg.parts.right_claw.customLabel>right claw</LotRB_FellBeastBody.corePart.parts.right_leg.parts.right_claw.customLabel>
+  <!-- EN: left wing -->
+  <LotRB_FellBeastBody.corePart.parts.left_wing.customLabel>left wing</LotRB_FellBeastBody.corePart.parts.left_wing.customLabel>
+  <!-- EN: right wing -->
+  <LotRB_FellBeastBody.corePart.parts.right_wing.customLabel>right wing</LotRB_FellBeastBody.corePart.parts.right_wing.customLabel>
+</LanguageData>

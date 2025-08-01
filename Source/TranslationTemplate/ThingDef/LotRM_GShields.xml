@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Gondorian shield -->
+  <LotRM_GondorShield.label>Gondorian shield</LotRM_GondorShield.label>
+  <!-- EN: Metal shield bearing the mark of the sacred white tree of Gondor. -->
+  <LotRM_GondorShield.description>Metal shield bearing the mark of the sacred white tree of Gondor.</LotRM_GondorShield.description>
+  <!-- EN: side -->
+  <LotRM_GondorShield.tools.side.label>side</LotRM_GondorShield.tools.side.label>
+  <!-- EN: buckle -->
+  <LotRM_GondorShield.tools.buckle.label>buckle</LotRM_GondorShield.tools.buckle.label>
+</LanguageData>

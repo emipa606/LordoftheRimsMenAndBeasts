@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: gondor -->
+  <LotRM_Gondor.label>gondor</LotRM_Gondor.label>
+  <!-- EN: Gondor, the prominent kingdom of Men in Middle-earth, bordered by Rohan to the north, Harad to the south, the cape of Andrast and the Sea to the west, and Mordor to the east. Its first capital was Osgiliath, moved to Minas Tirith in TA 1640. The city of Minas Tirith remained the capital of Gondor for the rest of the Third Age and into years of the Fourth Age; other major fortresses include Dol Amroth in Belfalas and Osgiliath, which was a city on the Anduin. -->
+  <LotRM_Gondor.description>Gondor, the prominent kingdom of Men in Middle-earth, bordered by Rohan to the north, Harad to the south, the cape of Andrast and the Sea to the west, and Mordor to the east. Its first capital was Osgiliath, moved to Minas Tirith in TA 1640. The city of Minas Tirith remained the capital of Gondor for the rest of the Third Age and into years of the Fourth Age; other major fortresses include Dol Amroth in Belfalas and Osgiliath, which was a city on the Anduin.</LotRM_Gondor.description>
+  <!-- EN: Gondor -->
+  <LotRM_Gondor.fixedName>Gondor</LotRM_Gondor.fixedName>
+  <!-- EN: king -->
+  <LotRM_Gondor.leaderTitle>king</LotRM_Gondor.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <LotRM_Gondor.messageDefendersAttacking>{0} from {1} are attacking your {2}.</LotRM_Gondor.messageDefendersAttacking>
+  <!-- EN: member -->
+  <LotRM_Gondor.pawnSingular>member</LotRM_Gondor.pawnSingular>
+  <!-- EN: men of gondor -->
+  <LotRM_Gondor.pawnsPlural>men of gondor</LotRM_Gondor.pawnsPlural>
+</LanguageData>

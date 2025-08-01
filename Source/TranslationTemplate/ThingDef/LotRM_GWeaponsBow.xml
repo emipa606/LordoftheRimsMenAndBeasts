@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ithilien arrow -->
+  <LotRM_Arrow_IthilienArrow.label>ithilien arrow</LotRM_Arrow_IthilienArrow.label>
+  <!-- EN: Ithilien ranger bow -->
+  <LotRM_Bow_Ithilien.label>Ithilien ranger bow</LotRM_Bow_Ithilien.label>
+  <!-- EN: Efficient at both medium and long range, this stealth bow takes out targets big and small at a distance. -->
+  <LotRM_Bow_Ithilien.description>Efficient at both medium and long range, this stealth bow takes out targets big and small at a distance.</LotRM_Bow_Ithilien.description>
+  <!-- EN: arrow -->
+  <LotRM_Bow_Ithilien.tools.arrow.label>arrow</LotRM_Bow_Ithilien.tools.arrow.label>
+  <!-- EN: Ithilien ranger bow -->
+  <LotRM_Bow_Ithilien.verbs.Verb_Shoot.label>Ithilien ranger bow</LotRM_Bow_Ithilien.verbs.Verb_Shoot.label>
+</LanguageData>

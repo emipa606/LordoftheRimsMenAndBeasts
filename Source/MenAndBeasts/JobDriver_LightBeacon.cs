@@ -11,12 +11,12 @@ public class JobDriver_LightBeacon : JobDriver
     private const float WarmupTicks = 80f;
 
     private const float TicksBetweenRepairs = 16f;
-    public static readonly int remainingDuration = 500; // A few seconds
+    private static readonly int remainingDuration = 500; // A few seconds
 
-    protected float ticksToNextRepair;
+    private float ticksToNextRepair;
 
 
-    protected Building_BeaconUnlit Beacon => (Building_BeaconUnlit)job.GetTarget(TargetIndex.A).Thing;
+    private Building_BeaconUnlit Beacon => (Building_BeaconUnlit)job.GetTarget(TargetIndex.A).Thing;
 
     public override bool TryMakePreToilReservations(bool errorOnFailed)
     {
@@ -66,12 +66,12 @@ public class JobDriver_LightBeacon : JobDriver
         //Toil 4: Transform the altar once again.
         yield return new Toil
         {
-            initAction = LightBeacon,
+            initAction = lightBeacon,
             defaultCompleteMode = ToilCompleteMode.Instant
         };
     }
 
-    public void LightBeacon()
+    private void lightBeacon()
     {
         Beacon.Light();
     }

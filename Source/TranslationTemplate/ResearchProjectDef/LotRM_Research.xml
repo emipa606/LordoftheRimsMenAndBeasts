@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Ithilien Gear -->
+  <LotRM_G_ArmorOne.label>Ithilien Gear</LotRM_G_ArmorOne.label>
+  <!-- EN: The rangers of the south are unparalleled in their stealth.\n\nUnlock Ithilien ranger outfit:\n- Ithilien ranger hood\n- Ithilien ranger gear -->
+  <LotRM_G_ArmorOne.description>The rangers of the south are unparalleled in their stealth.
+
+Unlock Ithilien ranger outfit:
+- Ithilien ranger hood
+- Ithilien ranger gear</LotRM_G_ArmorOne.description>
+  <!-- EN: Nobility of Gondor -->
+  <LotRM_G_ArmorThree.label>Nobility of Gondor</LotRM_G_ArmorThree.label>
+  <!-- EN: Since the absence of the kingship, the stewards have watched over Gondor, awaiting the return of the king.\n\nUnlock Gondorian noble items:\n- Gondorian crown\n- Fountain-guard Helmet -->
+  <LotRM_G_ArmorThree.description>Since the absence of the kingship, the stewards have watched over Gondor, awaiting the return of the king.
+
+Unlock Gondorian noble items:
+- Gondorian crown
+- Fountain-guard Helmet</LotRM_G_ArmorThree.description>
+  <!-- EN: Armor of Gondor -->
+  <LotRM_G_ArmorTwo.label>Armor of Gondor</LotRM_G_ArmorTwo.label>
+  <!-- EN: Gondor's blacksmiths are amongst the best of all mankind.\n\nUnlock Gondorian armor:\n- Gondor plate helmet\n- Fountain-guard Helmet\n- Gondor full plate -->
+  <LotRM_G_ArmorTwo.description>Gondor's blacksmiths are amongst the best of all mankind.
+
+Unlock Gondorian armor:
+- Gondor plate helmet
+- Fountain-guard Helmet
+- Gondor full plate</LotRM_G_ArmorTwo.description>
+  <!-- EN: Spears and Bows of the White Tree -->
+  <LotRM_G_WeaponsOne.label>Spears and Bows of the White Tree</LotRM_G_WeaponsOne.label>
+  <!-- EN: <i>Gondor! Gondor, between the Mountains and the Sea! West Wind blew there; light upon the Silver Tree</i>\n\nUnlock the classic weapons of Gondor:\n- Gondor Spear\n- Ithilien Ranger Bow -->
+  <LotRM_G_WeaponsOne.description>&lt;i>Gondor! Gondor, between the Mountains and the Sea! West Wind blew there; light upon the Silver Tree&lt;/i>
+
+Unlock the classic weapons of Gondor:
+- Gondor Spear
+- Ithilien Ranger Bow</LotRM_G_WeaponsOne.description>
+  <!-- EN: Swan-Blades of Dol Amroth -->
+  <LotRM_G_WeaponsThree.label>Swan-Blades of Dol Amroth</LotRM_G_WeaponsThree.label>
+  <!-- EN: <i>"Amroth for Gondor!" they cried. "Amroth to Faramir!" </i>\n\nUnlock the arsenal wielded by the swan-knights of Dol Amroth:\n- Knight blade\n- Swan Knight blade -->
+  <LotRM_G_WeaponsThree.description>&lt;i>"Amroth for Gondor!" they cried. "Amroth to Faramir!" &lt;/i>
+
+Unlock the arsenal wielded by the swan-knights of Dol Amroth:
+- Knight blade
+- Swan Knight blade</LotRM_G_WeaponsThree.description>
+  <!-- EN: Weapons of War -->
+  <LotRM_G_WeaponsTwo.label>Weapons of War</LotRM_G_WeaponsTwo.label>
+  <!-- EN: <i>"The beacons of Gondor are alight, calling for aid. War is kindled."</i>\n\nUnlock proper Gondorian weapons:\n- Gondorian Sword\n - Gondorian Shield -->
+  <LotRM_G_WeaponsTwo.description>&lt;i>"The beacons of Gondor are alight, calling for aid. War is kindled."&lt;/i>
+
+Unlock proper Gondorian weapons:
+- Gondorian Sword
+ - Gondorian Shield</LotRM_G_WeaponsTwo.description>
+</LanguageData>

@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/.github/">
+    <File Path="../.github/copilot-instructions.md" />
+  </Folder>
+  <Configurations>
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="AR_PawnShields/AR_PawnShields.csproj" />
+  <Project Path="MenAndBeasts/MenAndBeasts.csproj" />
+</Solution>
